@@ -1,2 +1,2 @@
 # Awesome DAO
-Organization represented by rules encoded as a computer program that is transparent.
+A curated list of resources and tools about Decentralized Autonomous Organizations.
