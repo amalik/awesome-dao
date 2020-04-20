@@ -6,3 +6,6 @@ A curated list of resources and tools about Decentralized Autonomous Organizatio
 ## DAOs
 ## Blog posts worth reading
 ## Repositories
+## Communities
+### Discourse
+### Reddit
