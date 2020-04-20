@@ -1,5 +1,5 @@
 # Awesome DAO
-A curated list of resources and tools about Decentralized Autonomous Organizations.
+A curated list of awesome resources and tools about Decentralized Autonomous Organizations.
 ## Contents
 ## What is a DAO ?
 ## Ecosystem
