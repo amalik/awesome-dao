@@ -13,6 +13,7 @@ Pull requests are more than welcome.
 ## DAOs
 ## Blog posts
 ## Repositories
+- https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-
 ## Communities
 ### Discourse
 ### Reddit
